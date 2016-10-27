@@ -5,8 +5,8 @@
 		<artifactId>ngJavaEE</artifactId>
 		<version>5.00.01-SNAPSHOT</version>
 	</parent>
-	<artifactId>java-server</artifactId>
-	<name>javaEE - Server</name>
+	<artifactId>ng2-server</artifactId>
+	<name>ng2 - Server</name>
 	<packaging>war</packaging>
 	<repositories>
 		<repository>
