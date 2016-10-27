@@ -34,7 +34,7 @@
 				<artifactId>guava</artifactId>
 				<version>${guava.version}</version>
 			</dependency>
-			<!-- slf4j et dépendances -->
+			<!-- slf4j et dependances -->
 			<dependency>
 				<groupId>org.slf4j</groupId>
 				<artifactId>slf4j-api</artifactId>

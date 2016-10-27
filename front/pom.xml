@@ -5,10 +5,8 @@
 		<artifactId>ngJavaEE</artifactId>
 		<version>5.00.01-SNAPSHOT</version>
 	</parent>	
-  
   <artifactId>ng2-frong</artifactId>
   <name>ng2 - front</name>
-  
   <build>
     <finalName>front</finalName>
     <plugins>
